@@ -175,11 +175,11 @@ footer {
     }
 
 
-    /*SCREENSHOT*/
+    /*SCREENSHOT #09324D*/
     .screenshot {
         flex: 1;
         width: 30%;
-        background-color: #09324D;
+        background-color: #FFF;
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
